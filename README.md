@@ -1,8 +1,5 @@
 ## Greetings :bow:
 
-<!--
-**OrlandoChir/OrlandoChir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 The name is **Orlando Chirinos**, pleased to meet you.
 
 :books: **Currently studying:**
